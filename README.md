@@ -202,9 +202,8 @@ Całość kodu dostępna w repozytorium w linku poniżej.
 
 Layout aplikacji został stworzony z myślą o urządzeniach mobilnych. 
 
-![images/layout-1.jpg](images/layout-1.jpg)
+![Layout](images/layout.png)
 
-![images/layout-2.jpg](images/layout-2.jpg)
 
 ---
 
